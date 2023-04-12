@@ -1,0 +1,7 @@
+Rubber Ducky is a small USB device that looks like a normal thumb drive but is actually a powerful tool used for penetration testing and security assessments. When plugged into a computer, Rubber Ducky can automatically inject pre-configured keystrokes and commands that can exploit vulnerabilities in the system, bypass security controls, and gain access to sensitive information.
+
+However, from a blue team perspective, Rubber Ducky can also be used as a powerful tool for testing and improving the security of a system. By emulating the actions of a hacker, security teams can use Rubber Ducky to identify vulnerabilities and weaknesses in their systems and networks. This can help them to improve their security posture and better protect their organizations against real-world threats.
+
+To defend against attacks using Rubber Ducky, blue teams can implement several strategies. For example, they can use USB port lockdown mechanisms to prevent unauthorized devices from being connected to the system. They can also monitor the system for any unusual or suspicious activities, such as unexpected keystrokes or commands, and promptly investigate and respond to any potential security incidents.
+
+In summary, Rubber Ducky is a powerful tool that can be used for both offensive and defensive purposes in the context of cybersecurity. While it can be a valuable tool for penetration testers and red teams, it can also be a valuable asset for blue teams to identify and address vulnerabilities in their systems and networks.

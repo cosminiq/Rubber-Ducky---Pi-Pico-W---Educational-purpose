@@ -1,0 +1,7 @@
+DELAY 250
+REM The next four lines open Notepad in Windows and type "Hello World!"
+ENTER
+DELAY 250
+STRING Birou01
+DELAY 250
+ENTER

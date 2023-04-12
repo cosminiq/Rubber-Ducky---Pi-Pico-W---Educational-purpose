@@ -1,0 +1,8 @@
+REM A slightly more advanced "Hello, World!" for Windows
+DELAY 3000
+REM Open the Run dialog
+WINDOWS r
+DELAY 1000
+REM Open powershell with our message
+STRING powershell "echo 'Hello, World!'; pause"
+ENTER

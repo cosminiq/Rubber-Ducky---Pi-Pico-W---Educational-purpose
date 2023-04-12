@@ -1,0 +1,25 @@
+REM A slightly more advanced "Hello, World!" for Windows
+DELAY 3000
+REM Open the Run dialog
+WINDOWS r
+DELAY 1000
+REM Open powershell with our message
+STRING powershell "echo 'Hello, World!'; pause"
+ENTER
+
+The commands in Ducky Script are usually short and simple, and they can be combined to create more complex scripts. Some common commands include:
+
+DELAY: Pauses the script for a specified amount of time (in milliseconds).
+
+STRING: Types a string of text into the computer.
+
+GUI: Presses the Windows key on the keyboard.
+
+ENTER: Presses the Enter key on the keyboard.
+
+TAB: Presses the Tab key on the keyboard.
+
+
+These commands can be used in various combinations to perform different actions, such as opening programs, navigating through menus, and executing commands. However, it's important to note that the use of keystroke injection tools like the USB Rubber Ducky for unethical or illegal purposes is not allowed and can result in serious consequences.
+
+
